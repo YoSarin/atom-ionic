@@ -1,0 +1,17 @@
+{
+  "name": "atom-ionic",
+  "main": "./lib/atom-ionic",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/atom-ionic",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "cordova": "~8.0.0",
+    "ionic": "~3.19"
+  }
+}

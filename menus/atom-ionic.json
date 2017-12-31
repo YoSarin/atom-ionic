@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Deploy to device",
+        "command": "atom-ionic:deploy"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-ionic",
+          "submenu": [
+            {
+              "label": "Deploy to device",
+              "command": "atom-ionic:deploy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
