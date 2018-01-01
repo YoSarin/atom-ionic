@@ -4,6 +4,10 @@
       {
         "label": "Deploy to device",
         "command": "atom-ionic:deploy"
+      },
+      {
+        "label": "Toggle log",
+        "command": "atom-ionic:toggle-log"
       }
     ]
   },
@@ -17,6 +21,10 @@
             {
               "label": "Deploy to device",
               "command": "atom-ionic:deploy"
+            },
+            {
+              "label": "Toggle log",
+              "command": "atom-ionic:toggle-log"
             }
           ]
         }
