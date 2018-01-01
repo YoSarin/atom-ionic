@@ -8,6 +8,14 @@
       {
         "label": "Toggle log",
         "command": "atom-ionic:toggle-log"
+      },
+      {
+        "label": "Serve (http server)",
+        "command": "atom-ionic:serve"
+      },
+      {
+        "label": "Stop (http server)",
+        "command": "atom-ionic:stop-serve"
       }
     ]
   },
@@ -25,6 +33,14 @@
             {
               "label": "Toggle log",
               "command": "atom-ionic:toggle-log"
+            },
+            {
+              "label": "Serve (http server)",
+              "command": "atom-ionic:serve"
+            },
+            {
+              "label": "Stop (http server)",
+              "command": "atom-ionic:stop-serve"
             }
           ]
         }
