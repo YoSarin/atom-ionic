@@ -31,6 +31,10 @@
               "command": "atom-ionic:deploy"
             },
             {
+              "label": "List devices",
+              "command": "atom-ionic:devices"
+            },
+            {
               "label": "Toggle log",
               "command": "atom-ionic:toggle-log"
             },
@@ -41,6 +45,14 @@
             {
               "label": "Stop (http server)",
               "command": "atom-ionic:stop-serve"
+            },
+            {
+              "label": "Add page",
+              "command": "atom-ionic:add-page"
+            },
+            {
+              "label": "Add plugin",
+              "command": "atom-ionic:add-plugin"
             }
           ]
         }
